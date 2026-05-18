@@ -133,25 +133,11 @@ FlightZone demo environment for simulated ATC workflows only.
 
 Available operational identifiers:
 
-- SKYCTRL-HOLD → Hold position / altitude
-- SKYCTRL-ALT → Altitude adjustment request
-- SKYCTRL-HDNG → Heading modification
-- SKYCTRL-SPD → Speed modification
-- SKYCTRL-WX → Weather deviation routing
-- SKYCTRL-RWY → Runway reassignment
-- SKYCTRL-TAXI → Taxi clearance workflow
-- SKYCTRL-EMG-MED → Medical emergency simulation
-- SKYCTRL-EMG-FIRE → Fire emergency simulation
-- SKYCTRL-EMG-COMM → Communications failure simulation
-- SKYCTRL-LOCK → Restricted airspace enforcement
-- SKYCTRL-ABORT → Abort departure sequence
+- SKYCTRL-XXXX
 
 Restricted identifiers:
 
 REDACTED
-
-[//]: # (SKYCTRL-HALT-RESTRICTED-DEMO-CODE)
-
 Unauthorized access response:
 
 > "Access restricted. Authorization validation required."
