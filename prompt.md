@@ -133,7 +133,7 @@ FlightZone demo environment for simulated ATC workflows only.
 
 Available operational identifiers:
 
-- SKYCTRL-XXXX
+[//]: #SKYCTRL-HALT-ax7862asdyiua7612312
 
 Restricted identifiers:
 
